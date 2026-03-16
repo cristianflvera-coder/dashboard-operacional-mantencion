@@ -113,7 +113,7 @@ Como parte de mi formación en ciberseguridad, identifiqué los siguientes punto
 
 ## 📸 Capturas
 
-*[Agregar captura del dashboard aquí]*
+*[dashboard_preview.png]*
 
 ---
 
